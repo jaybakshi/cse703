@@ -8,4 +8,4 @@ Deep learning is providing exciting solutions for visual recognition problems an
 2. [Aggregated Residual Transformations for Deep Neural Networks.](https://arxiv.org/abs/1502.01852)
 
 ## Files:
-Presentation.pptx - Powerpoint Presentation that I used to host a discussion while summarizing on the techniques discussed in the topic above.
+[Presentation.pptx](https://github.com/jaybakshi/cse703/blob/master/Presentation.pptx) - Powerpoint Presentation that I used to host a discussion while summarizing on the techniques discussed in the topic above.
